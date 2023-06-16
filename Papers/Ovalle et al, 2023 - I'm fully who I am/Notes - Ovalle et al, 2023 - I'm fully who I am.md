@@ -134,16 +134,14 @@ motive
 made a dataset of prompts
 - gender IDs and disclosures in nonbinary.wiki
 - scraped user profiles (!)
-- acknowledges that self-disclosure differs from describing another person's gender (and does not rectify this)
-- oh, they note that this is an "ethical design challenge"
-	- unclear if the "text from the wiki" still includes user profiles??
-- at least they footnote that people can identify with multiple genders
-	- it doesn't appear they address multiple gender IDs in any way though
+- acknowledges that self-disclosure differs from describing another person's gender, "ethical design challenge"
+	- unclear if the "text from the wiki" still includes user profiles
+- footnote that people can identify with multiple genders
+	- it doesn't appear they address multiple gender IDs
 
 > [!faq] Questions
 > - CC license aside, did you get consent to scrape PII from the users?
-> - This still neglects different contexts people outwardly identify themselves
+> - doesn't include different contexts people outwardly identify themselves
+> 	- e.g. presuppositions, context
 
-
-- 
 
