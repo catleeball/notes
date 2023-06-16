@@ -16,7 +16,8 @@ notes
 - Harms evaluated:
 	- misgendering
 	- harmful responses to gender disclosure
-- Testing (unmentioned model(s)) found the most harmful language was in response to gender disclosures
+- Testing found the most harmful language was in response to gender disclosures
+	- what models / systems were tested?
 
 > [!faq] initial questions / thoughts
 > The harms evaluated seem meaningful, but limited
