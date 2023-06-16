@@ -1,7 +1,6 @@
 
 # Glossary
 
-- TGNB - Transgender and non-binary
 - OLG  - open language generation
 - harm - *"... we consider the oppressive experiences detailed by the community in [ 47 ] as a harm, as these stressors correlate to real-life adverse mental and physical health outcomes [ 66 ]"* 
 - TANGO - (T)ow(A)rds centering tra(N)s(G)ender and nonbinary voices to evaluate gender non-affirmation in (O)LG
