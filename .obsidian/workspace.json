@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studies/Conv Agent Privacy/Notes - Privacy of IR via CAs.md",
+                "file": "Studies/Conv Agent Privacy/IRB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studies/Conv Agent Privacy/Notes - Privacy of IR via CAs.md",
+                "file": "Studies/Conv Agent Privacy/IRB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studies/Conv Agent Privacy/Notes - Privacy of IR via CAs.md"
+                "file": "Studies/Conv Agent Privacy/IRB.md"
               }
             }
           },
@@ -174,14 +174,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b902d3b9e8b445bd",
+  "active": "482e0dcbe5138a0f",
   "lastOpenFiles": [
-    "Studies/Conv Agent Privacy/~$PLICATION_IRB_Protocol_v4.5_2023.06.01.docx",
-    "Hobby/Weizenbaum OCR fixups/Preface.md",
     "Studies/Conv Agent Privacy/Notes - Privacy of IR via CAs.md",
     "Studies/Conv Agent Privacy/IRB.md",
-    "Papers/Dev et al, 2021 - Harms of Gender Exclusivity/Notes - Dev et al, 2021.md",
+    "Studies/Conv Agent Privacy/IRB_application.docx",
+    "Studies/Conv Agent Privacy/IRB_application_.docx",
     "Studies/Conv Agent Privacy/APPLICATION_IRB_Protocol_v4.5_2023.06.01.docx",
+    "Studies/Conv Agent Privacy/Preregistration Draft.pdf",
+    "Studies/Conv Agent Privacy/~$PLICATION_IRB_Protocol_v4.5_2023.06.01.docx",
+    "Hobby/Weizenbaum OCR fixups/Preface.md",
+    "Papers/Dev et al, 2021 - Harms of Gender Exclusivity/Notes - Dev et al, 2021.md",
     "Papers/Dev et al, 2021 - Harms of Gender Exclusivity/Dev et al 2021 - Harms of Gender Exclusivity.pdf",
     "Papers/Shah, Bender, 2022 - Situating Search/Notes - Shah, Bender, 2022 - Situating Search.md",
     "Studies/Conv Agent Privacy",
@@ -194,11 +197,8 @@
     "Papers/Weizenbaum, 1976 - Computer power and human reason/Metadata - Weizenbaum, 1976 - Computer power and human reason.md",
     "Papers/Weizenbaum, 1976 - Computer power and human reason/Weizenbaum - 1976 - Computer power and human reason from judgment to .pdf",
     "Hobby/Weizenbaum OCR fixups/Introduction.md",
-    "Papers/Rajunov & Duane, 2019 - Nonbinary Memoirs of Gender and Identity/Micah Rajunov, Scott Duane - Nonbinary_ Memoirs of Gender and Identity (2019, Columbia University Press) - libgen.li.pdf",
-    "Hobby/Weizenbaum OCR fixups",
     "Papers/Dev et al, 2021 - Harms of Gender Exclusivity/Metadata - Dev et al, 2021.md",
     "Papers/Rajunov & Duane, 2019 - Nonbinary Memoirs of Gender and Identity/Metadata - Rajunov & Duane, 2019 - Nonbinary Memoirs of Gender and Identity.md",
-    "Papers/Weizenbaum, 1976 - Computer power and human reason",
     "Papers/Dev et al, 2021 - Harms of Gender Exclusivity/Dev et al, 2021 - Metadata copy.md",
     "Papers/Dev et al, 2021 - Harms of Gender Exclusivity/Untitled.md",
     "Work/20-percent/Meeting Notes - 2023-06-13.md",

@@ -1,10 +1,13 @@
 # TODO
 
 - fill out consent form
-	- use redcap for consent recording?
+	- use redcap for consent recording? and maybe also survey?
 	- can I just have a checkbox & link in a form or do I need min risk waiver for that?
-- finish IRB worksheet 
-- figure out survey application
+- finish IRB worksheet
+- figure out survey application, write survey to attach to IRB
+- write participant recruitment materials for IRB
+- finish writing consent form
+
 
 # Consent form stuff
 

@@ -6,20 +6,9 @@ short_title: Privacy of IR via CAs
 # Links
 
 - [Prereg paper (overleaf)](https://www.overleaf.com/project/64693bd0f478397fc79bfca7)
+- [[Preregistration Draft.pdf]]
+- [[IRB_application.docx]]
 
-
-# TODO
-
-- done:
-	- prereg report: https://www.overleaf.com/project/64693bd0f478397fc79bfca7
-	- confirm no financial conflict of interest
-- in progress:
-	- [[IRB]]
-	- asked Dr. Bender to be faculty reviewer
-- todo:
-	- Talk do Dr. Shah about methodology
-	- Talk to Moira/Mo about methodology
-	- move old notes into here
 
 # Study Summary
 
@@ -39,5 +28,18 @@ short_title: Privacy of IR via CAs
 > Moreover, I predict that the verbose natural language encouraged by conversational agents will allow natural language inference (NLI) systems to profile participants more reliably than their peers using text input fields.
 
 
+# TODO
 
+- done:
+	- prereg report: https://www.overleaf.com/project/64693bd0f478397fc79bfca7
+	- confirm no financial conflict of interest
+- in progress:
+	- [[IRB]]
+	- asked Dr. Bender to be faculty reviewer
+	- finish writing consent form
+- todo:
+	- Talk do Dr. Shah about methodology
+	- Talk to Moira/Mo about methodology
+	- move old notes into here
+	- all the stuff in [[IRB]] todo list
 
