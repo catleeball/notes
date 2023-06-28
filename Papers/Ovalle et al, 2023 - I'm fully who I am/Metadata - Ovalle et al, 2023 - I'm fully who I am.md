@@ -1,4 +1,15 @@
 ---
+title: "I'm fully who I am: Towards Centering Transgender and Non-Binary Voices to Measure Biases in Open Language Generation"
+authors:
+	- Anaelia Ovalle
+	- Palash Goyal
+	- Jwala Dhamala
+	- Zachary Jaggers
+	- Kai-Wei Chang
+	- Aram Galstyan
+	- Richard Zemel
+	- Rahul Gupta
+year: 2023
 tags:
 	- nonbinary
 	- transgender
@@ -11,9 +22,13 @@ tags:
 	- model evaluation
 	- TANGO
 	- nonbinary.wiki
-	- fairness
+	- algorithmic fairness
 ---
 
+## Links
+
+- [ACM](https://doi.org/10.1145%2F3593013.3594078)
+	- [ACM html](https://dl.acm.org/doi/fullHtml/10.1145/3593013.3594078)
 
 ## Abstract
 
