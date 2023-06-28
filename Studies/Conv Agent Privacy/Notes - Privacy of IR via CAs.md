@@ -28,6 +28,28 @@ short_title: Privacy of IR via CAs
 > Moreover, I predict that the verbose natural language encouraged by conversational agents will allow natural language inference (NLI) systems to profile participants more reliably than their peers using text input fields.
 
 
+## Brief study plan
+
+- Between-groups survey with IR tasks for participants
+	- Tasks are fictional scenarios that prompt the participant to search for info online
+		- *"You have a new pet bippo, but you don't know what to feed it. What would you type into the tool pictured below?"*
+	- Experimental group gets picture of CUI
+	- Control group gets picture of a text field
+	- Text box for entry
+	- Collect some demographic info too possibly
+- Analysis
+	- For each question, count personal information divulgences via:
+		- direct statement
+		- presupposition
+		- if enough participants, maybe aggregate into per-participant rates since each participant could have widely varying rates of divulgences
+			- this would lose maybe interesting data per-question if one question elicits more divulgences than other
+	- Chi-squared hypothesis test for all data lumped together
+	- Not sure how to analyze per-demographic!
+		- ... more chi-squared tests per demographic?
+		- compare with confidence intervals to other demographics?
+		- this would be a whole lot of comparisons
+
+
 # TODO
 
 - done:
@@ -39,7 +61,7 @@ short_title: Privacy of IR via CAs
 	- finish writing consent form
 - todo:
 	- Talk do Dr. Shah about methodology
-	- Talk to Moira/Mo about methodology
+	- Talk to Moira/Mo about collaborating
 	- move old notes into here
 	- all the stuff in [[IRB]] todo list
 
