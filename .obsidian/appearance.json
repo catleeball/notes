@@ -1,3 +1,8 @@
 {
-  "accentColor": ""
+  "accentColor": "#fb5bb8",
+  "cssTheme": "",
+  "theme": "system",
+  "monospaceFontFamily": "SF Mono,Menlo,Inconsolata,Fira Sans",
+  "textFontFamily": "Atkinson Hyperlegible,Inter,Fira Sans",
+  "translucency": false
 }
