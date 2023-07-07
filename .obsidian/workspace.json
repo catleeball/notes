@@ -11,29 +11,9 @@
             "id": "b902d3b9e8b445bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Studies/Conv Agent Privacy/Notes - Privacy of IR via CAs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "365f7880efb1fd7c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "482e0dcbe5138a0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studies/Conv Agent Privacy/IRB.md",
-                "mode": "source",
-                "source": false
+                "file": "Studies/Conv Agent Privacy/Preregistration Draft_.pdf"
               }
             }
           }
@@ -66,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#elixir-lang",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 283.5026054382324
   },
   "right": {
     "id": "956da3910ef1e4ea",
@@ -103,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studies/Conv Agent Privacy/Notes - Privacy of IR via CAs.md",
+                "file": "Studies/Conv Agent Privacy/Preregistration Draft_.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studies/Conv Agent Privacy/Notes - Privacy of IR via CAs.md",
+                "file": "Studies/Conv Agent Privacy/Preregistration Draft_.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studies/Conv Agent Privacy/Notes - Privacy of IR via CAs.md"
+                "file": "Studies/Conv Agent Privacy/Preregistration Draft_.pdf"
               }
             }
           },
@@ -176,24 +156,28 @@
   },
   "active": "b902d3b9e8b445bd",
   "lastOpenFiles": [
+    "Studies/Conv Agent Privacy/Preregistration_Paper.pdf",
     "Studies/Conv Agent Privacy/Preregistration Draft.pdf",
+    "Studies/Conv Agent Privacy/LING_575_A_Term_Paper-2.pdf",
     "Studies/Conv Agent Privacy/Preregistration Draft_.pdf",
-    "Studies/Conv Agent Privacy/IRB_application.docx",
-    "Studies/Conv Agent Privacy/IRB_application_.docx",
-    "Studies/Conv Agent Privacy/LING 575 A - Outline Term Paper.pdf",
     "Studies/Conv Agent Privacy/IRB.md",
+    "Reference Books/Programming/Elixer in Action 2e/Notes.md",
+    "Reference Books/Programming/Elixer in Action 2e/elixir-in-action-saša-jurić-2-2019-manning-elixir--annas-archive.pdf",
+    "Papers/Dev et al, 2021 - Harms of Gender Exclusivity/Dev et al 2021 - Harms of Gender Exclusivity.pdf",
+    "Untitled.md",
+    "Reference Books/Programming/Elixer in Action 2e",
+    "Reference Books/Programming",
+    "Reference Books",
+    "Papers/Shah, Bender, 2022 - Situating Search/Notes - Shah, Bender, 2022 - Situating Search.md",
+    "Papers/Shah, Bender, 2022 - Situating Search/Metadata - Shah, Bender, 2022 - Situating Search.md",
+    "Hobby/mdcite/mdcite/views/__pycache__/notfound.cpython-310.pyc",
+    "Hobby/mdcite/mdcite/views/__pycache__/default.cpython-310.pyc",
+    "Hobby/mdcite/mdcite/static/pyramid.png",
+    "Hobby/mdcite/mdcite/static/pyramid-16x16.png",
     "Studies/Conv Agent Privacy/Notes - Privacy of IR via CAs.md",
-    "Studies/Conv Agent Privacy/APPLICATION_IRB_Protocol_v4.5_2023.06.01.docx",
-    "Studies/Conv Agent Privacy/~$PLICATION_IRB_Protocol_v4.5_2023.06.01.docx",
     "Hobby/Weizenbaum OCR fixups/Preface.md",
     "Papers/Dev et al, 2021 - Harms of Gender Exclusivity/Notes - Dev et al, 2021.md",
-    "Papers/Dev et al, 2021 - Harms of Gender Exclusivity/Dev et al 2021 - Harms of Gender Exclusivity.pdf",
-    "Papers/Shah, Bender, 2022 - Situating Search/Notes - Shah, Bender, 2022 - Situating Search.md",
-    "Studies/Conv Agent Privacy",
-    "Studies",
     "Papers/Nguyen et al. 2016 - Computational Sociolinguistics - A Survey.md",
-    "Papers/Shah, Bender, 2022 - Situating Search/Metadata - Shah, Bender, 2022 - Situating Search.md",
-    "Papers/Shah, Bender, 2022 - Situating Search",
     "Papers/Ovalle et al, 2023 - I'm fully who I am/Metadata - Ovalle et al, 2023 - I'm fully who I am.md",
     "Papers/Ovalle et al, 2023 - I'm fully who I am/Notes - Ovalle et al, 2023 - I'm fully who I am.md",
     "Papers/Weizenbaum, 1976 - Computer power and human reason/Metadata - Weizenbaum, 1976 - Computer power and human reason.md",
@@ -204,13 +188,11 @@
     "Papers/Dev et al, 2021 - Harms of Gender Exclusivity/Untitled.md",
     "Work/20-percent/Meeting Notes - 2023-06-13.md",
     "dev_harms_2021.md",
-    "Untitled.md",
     "Work/Untitled.md",
     "CLMS/LING 575 D/Final Project/Presentation notes.md",
     "CLMS/LING 575 D/Final Project/575D_final_project_src/data/phoible/scripts/README.md",
     "CLMS/LING 575 D/Final Project/575D_final_project_src/data/phoible/raw-data/UPSID/README.md",
     "CLMS/LING 575 D/Final Project/575D_final_project_src/data/phoible/raw-data/SPA/README.md",
-    "CLMS/LING 575 D/Final Project/575D_final_project_src/data/phoible/raw-data/SAPHON/README.md",
-    "CLMS/LING 575 D/Final Project/575D_final_project_src/data/phoible/raw-data/RA/README.md"
+    "CLMS/LING 575 D/Final Project/575D_final_project_src/data/phoible/raw-data/SAPHON/README.md"
   ]
 }
