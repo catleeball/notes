@@ -13,7 +13,19 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Studies/Conv Agent Privacy/Preregistration Draft_.pdf"
+                "file": "Studies/Conv Agent Privacy/Preregistration_Paper.pdf"
+              }
+            }
+          },
+          {
+            "id": "060168634aab321f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tmp.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studies/Conv Agent Privacy/Preregistration Draft_.pdf",
+                "file": "Studies/Conv Agent Privacy/Preregistration_Paper.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studies/Conv Agent Privacy/Preregistration Draft_.pdf",
+                "file": "Studies/Conv Agent Privacy/Preregistration_Paper.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studies/Conv Agent Privacy/Preregistration Draft_.pdf"
+                "file": "Studies/Conv Agent Privacy/Preregistration_Paper.pdf"
               }
             }
           },
@@ -156,10 +168,13 @@
   },
   "active": "b902d3b9e8b445bd",
   "lastOpenFiles": [
+    "tmp.md",
+    "Studies/Conv Agent Privacy/Recruitment_Email.txt",
+    "Studies/Conv Agent Privacy/~$B_application.docx",
     "Studies/Conv Agent Privacy/Preregistration_Paper.pdf",
+    "Studies/Conv Agent Privacy/Preregistration Draft_.pdf",
     "Studies/Conv Agent Privacy/Preregistration Draft.pdf",
     "Studies/Conv Agent Privacy/LING_575_A_Term_Paper-2.pdf",
-    "Studies/Conv Agent Privacy/Preregistration Draft_.pdf",
     "Studies/Conv Agent Privacy/IRB.md",
     "Reference Books/Programming/Elixer in Action 2e/Notes.md",
     "Reference Books/Programming/Elixer in Action 2e/elixir-in-action-saša-jurić-2-2019-manning-elixir--annas-archive.pdf",
@@ -167,11 +182,8 @@
     "Untitled.md",
     "Reference Books/Programming/Elixer in Action 2e",
     "Reference Books/Programming",
-    "Reference Books",
     "Papers/Shah, Bender, 2022 - Situating Search/Notes - Shah, Bender, 2022 - Situating Search.md",
     "Papers/Shah, Bender, 2022 - Situating Search/Metadata - Shah, Bender, 2022 - Situating Search.md",
-    "Hobby/mdcite/mdcite/views/__pycache__/notfound.cpython-310.pyc",
-    "Hobby/mdcite/mdcite/views/__pycache__/default.cpython-310.pyc",
     "Hobby/mdcite/mdcite/static/pyramid.png",
     "Hobby/mdcite/mdcite/static/pyramid-16x16.png",
     "Studies/Conv Agent Privacy/Notes - Privacy of IR via CAs.md",
@@ -192,7 +204,6 @@
     "CLMS/LING 575 D/Final Project/Presentation notes.md",
     "CLMS/LING 575 D/Final Project/575D_final_project_src/data/phoible/scripts/README.md",
     "CLMS/LING 575 D/Final Project/575D_final_project_src/data/phoible/raw-data/UPSID/README.md",
-    "CLMS/LING 575 D/Final Project/575D_final_project_src/data/phoible/raw-data/SPA/README.md",
-    "CLMS/LING 575 D/Final Project/575D_final_project_src/data/phoible/raw-data/SAPHON/README.md"
+    "CLMS/LING 575 D/Final Project/575D_final_project_src/data/phoible/raw-data/SPA/README.md"
   ]
 }

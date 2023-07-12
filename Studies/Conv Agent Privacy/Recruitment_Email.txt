@@ -1,0 +1,19 @@
+== Email Recruitment Template ==
+
+To: 
+From: catball@uw.edu
+Subject: Participate in Research on Information Retrieval via Conversational Agents - [Brief Survey]
+
+
+Hello,
+
+I'm a grad student seeking volunteers to fill out a quick survey (<=10 mins) about how you use different kinds of search interfaces.
+
+I'm doing this work with the Computational Linguistics department to understand how language may vary when people perform searches with different user interfaces and what this means for people.
+
+Surveys won't ask any personally identifiable information and will remain confidential.
+
+Your help is greatly appreciated! Thank you so much for helping with this research!
+
+Thanks,
+Cat
