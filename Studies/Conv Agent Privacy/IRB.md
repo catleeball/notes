@@ -1,16 +1,11 @@
 # TODO
 
+- Write full survey
+	- https://docs.google.com/forms/d/1nKzlsQ0-2zf3m-cFowTDH97Q_nZjB2sHYsZhIvPNKSg/edit?usp=forms_home&ths=true
+
+# Done
+
 - fill out consent form
-	- use redcap for consent recording? and maybe also survey?
-	- can I just have a checkbox & link in a form or do I need min risk waiver for that?
+	- turns out I don't need the full consent form with signatures collected! just small statement at beginning of survey
 - finish IRB worksheet
-- figure out survey application, write survey to attach to IRB
 - write participant recruitment materials for IRB
-- finish writing consent form
-
-
-# Consent form stuff
-
-- [links](https://www.washington.edu/research/announcements/for-the-record-june-6-2023-consent-revision-project-phase-2-short-form-consent-new-fred-hutch-requirement-changes-to-hsd-fee/#a1) at new consent form announcement
-	- [designing the consent process](https://www.washington.edu/research/hsd/guidance/consent/design/?mkt_tok=MTMxLUFRTy0yMjUAAAGMMNbmhhVQtksy37G2fxoRIpbdeLh-dgA1MPBX8VRrY5lUULk6VE8GYmZzAX_dAC6tC9Ny-WaKneGqzBQqEi90FZcYor6JAG_VPaPcTLtmBcmZDQ)
-	- [templates](https://www.washington.edu/research/hsd/guidance/consent/templates/)

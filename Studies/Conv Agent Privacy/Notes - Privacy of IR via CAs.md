@@ -55,13 +55,8 @@ short_title: Privacy of IR via CAs
 - done:
 	- prereg report: https://www.overleaf.com/project/64693bd0f478397fc79bfca7
 	- confirm no financial conflict of interest
+	- sent [[IRB]] forms for review
 - in progress:
-	- [[IRB]]
-	- asked Dr. Bender to be faculty reviewer
-	- finish writing consent form
+	- write survey https://docs.google.com/forms/d/1nKzlsQ0-2zf3m-cFowTDH97Q_nZjB2sHYsZhIvPNKSg/edit?usp=forms_home&ths=true
 - todo:
-	- Talk do Dr. Shah about methodology
-	- Talk to Moira/Mo about collaborating
 	- move old notes into here
-	- all the stuff in [[IRB]] todo list
-
